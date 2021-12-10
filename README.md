@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Edgar 👋</h1><br>
 
 ## 🌱 I’m currently learning Informatic
-<ul>
-  <li>Networks</li>
-  <li>Operating systems</li>
-  <li>Computer assembly</li>
-  <li>Webpages</li>
-</ul><br>
+<dl>
+  <dd>❱ Networks</li>
+  <dd>❱ Operating systems</li>
+  <dd>❱ Computer assembly</li>
+  <dd>❱ Webpages</li>
+</dl><br>
 
 ## 🖥 Stats
 ![edgarqs GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarqs&show_icons=true&theme=dracula)
@@ -15,9 +15,13 @@
 
 <br>
 
-## 🎴 Repositories
+## 📎 Repositories
 
-#### ↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/" target="_blank">View</a>
+#### ↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/">View</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelclass&show_owner=true&theme=dracula)](https://github.com/edgarqs/webpanelclass)
+
+#### ↳ Portfolio <a href="https://edgarqs.github.io/portafolio/">View</a>
 
 <br><br><br>
 
