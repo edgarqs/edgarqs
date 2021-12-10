@@ -17,11 +17,11 @@
 
 ## 📎 Repositories
 
-#### ↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/">View</a>
+#### &nbsp&nbsp↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/">View</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelclass&show_owner=true&theme=dracula)](https://github.com/edgarqs/webpanelclass)
 
-#### ↳ Portfolio <a href="https://edgarqs.github.io/portafolio/">View</a>
+#### &nbsp&nbsp↳ Portfolio <a href="https://edgarqs.github.io/portafolio/">View</a>
 
 <br><br><br>
 
