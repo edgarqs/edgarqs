@@ -13,6 +13,12 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelubuntu&show_owner=true)](https://github.com/edgarqs/webpanelubuntu)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarqs&layout=compact&theme=dracula)](https://github.com/edgarqs/readme)
 
+<br>
+
+## 🎴 Repositories
+
+#### ↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/" target="_blank">View</a>
+
 <br><br><br>
 
 <footer>
