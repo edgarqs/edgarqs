@@ -2,10 +2,10 @@
 
 ## 🌱 I’m currently learning Informatic
 <dl>
-  <dd>&nbsp❱ Networks</li>
-  <dd>&nbsp❱ Operating systems</li>
-  <dd>&nbsp❱ Computer assembly</li>
-  <dd>&nbsp❱ Webpages</li>
+  <dd>&nbsp;❱ Networks</li>
+  <dd>&nbsp;❱ Operating systems</li>
+  <dd>&nbsp;❱ Computer assembly</li>
+  <dd>&nbsp;❱ Webpages</li>
 </dl><br>
 
 ## 🖥 Stats
@@ -19,9 +19,9 @@
 
 #### ↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/">View</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelclass&show_owner=true&theme=dracula)](https://github.com/edgarqs/webpanelclass)
-
 #### ↳ Portfolio <a href="https://edgarqs.github.io/portafolio/">View</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelclass&show_owner=true&theme=dracula)](https://github.com/edgarqs/webpanelclass)
 
 <br><br><br>
 
