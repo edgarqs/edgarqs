@@ -2,10 +2,10 @@
 
 ## 🌱 I’m currently learning Informatic
 <dl>
-  <dd>❱ Networks</li>
-  <dd>❱ Operating systems</li>
-  <dd>❱ Computer assembly</li>
-  <dd>❱ Webpages</li>
+  <dd>&nbsp❱ Networks</li>
+  <dd>&nbsp❱ Operating systems</li>
+  <dd>&nbsp❱ Computer assembly</li>
+  <dd>&nbsp❱ Webpages</li>
 </dl><br>
 
 ## 🖥 Stats
