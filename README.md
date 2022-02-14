@@ -17,7 +17,7 @@
 
 ## 📎 Repositories
 
-#### ↳ Webpanel <a href="https://edgarqs.github.io/WebpanelV3/">View</a>
+#### ↳ Webpanel <a href="https://edgarqs.github.io/webpanel/">View</a>
 
 #### ↳ Portfolio <a href="https://edgarqs.github.io/portafolio/">View</a>
 
