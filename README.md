@@ -17,9 +17,9 @@
 
 ## 📎 Repositories
 
-#### ↳ Webpanel <a href="https://edgarqs.github.io/webpanel/">View</a>
+#### ↳ Webpanel <a href="webpanel.edgarqs.ninja">View</a>
 
-#### ↳ Portfolio <a href="https://edgarqs.github.io/portafolio/">View</a>
+#### ↳ Portfolio <a href="web.edgarqs.ninja">View</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelclass&show_owner=true&theme=dracula)](https://github.com/edgarqs/webpanelclass)
 
