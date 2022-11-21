@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Edgar 👋</h1><br>
 
-## 🌱 I’m currently learning Informatic
+## 🌱 I’m currently learning Web Development
 <dl>
   <dd>&nbsp;❱ Networks</li>
   <dd>&nbsp;❱ Operating systems</li>
