@@ -12,7 +12,7 @@
 ## 🖥 Stats
 ![edgarqs GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarqs&show_icons=true&theme=dracula)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarqs&repo=webpanelubuntu&show_owner=true)](https://github.com/edgarqs/webpanelubuntu)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/edgarqs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarqs&layout=compact&theme=dracula)](https://github.com/edgarqs/github-readme-stats)
 
 <br>
 
