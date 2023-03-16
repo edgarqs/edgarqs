@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br>🔭 I'm currently working on Soriano Telefónica Empresas
+🌱 I’m currently learning Web Development
 
 
 ## 🌐 Socials:
